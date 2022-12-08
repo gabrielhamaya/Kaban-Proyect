@@ -1,0 +1,28 @@
+.login-box {
+  background-color: #f5eef8;
+  padding: 2rem;
+  min-width: 30rem;
+}
+
+.login-logo {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 0.8rem;
+}
+
+.login-email {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+  margin-bottom: 0.8rem;
+}
+
+.login-with {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.login-with p {
+  text-align: center;
+}
